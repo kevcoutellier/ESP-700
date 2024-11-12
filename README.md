@@ -1,4 +1,4 @@
-# SmartJourney AI 🌍✈️
+# DreamScape AI 🌍✈️
 
 ## Notre Vision
 Révolutionner l'expérience voyage en combinant IA générative et réalité augmentée pour créer des voyages plus personnalisés, authentiques et enrichissants.
