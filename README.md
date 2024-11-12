@@ -51,6 +51,8 @@ Nous créons la prochaine révolution dans le voyage en :
 - Connectant voyageurs et locaux
 - Enrichissant la découverte culturelle
 
-Link to presentation : https://kevcoutellier.github.io/ESP-700/
+Link to presentation : 
+
+https://kevcoutellier.github.io/ESP-700/
 ---
 *Transformons ensemble l'avenir du voyage.*
