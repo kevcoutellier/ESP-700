@@ -51,10 +51,5 @@ Nous créons la prochaine révolution dans le voyage en :
 - Connectant voyageurs et locaux
 - Enrichissant la découverte culturelle
 
-## 📞 Contact
-Pour rejoindre l'aventure :
-- 📧 team@smartjourney.ai
-- 🌐 www.smartjourney.ai
-
 ---
 *Transformons ensemble l'avenir du voyage.*
